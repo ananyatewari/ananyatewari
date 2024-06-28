@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ananya !</h1>
-<h3 align="center">An aspiring full stack developer ✨</h3>
+<h1 align="center">Hi 👋 I'm Ananya !</h1>
+<h3 align="center">A dedicated MERN stack developer ✨</h3>
 
+<p align="center"><img src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" /></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ananyatewari&label=Profile%20views&color=0e75b6&style=flat" alt="ananyatewari" /> </p>
-
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idioticallyananya) &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-tewari-448b6b229) 
+
+## 👩‍💻 About me:
+🤖 I'm a passionate web developer currently crafting interactive applications using the MERN stack. While I'm diving deeper into the world of web dev , I'm also a lifelong learner, constantly seeking to expand my knowledge
+
+🧠 I'm currently engaged in a comprehensive approach to full-stack development. This involves not only mastering the MERN stack for both front-end and back-end development, but also concurrently improvising my C++ skills. This focus on data structures and algorithms strengthens my foundation, allowing me to build robust applications and effectively solve complex problems.
+
+📬 Interested in collaborating on new project ideas to solve real world problem statements. Feel free to reach out to me at ananyatewari0205@gmail.com
+
+✍️ I love reading mystery/thriller novels and often indulge myself in writing poems. 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp; ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
